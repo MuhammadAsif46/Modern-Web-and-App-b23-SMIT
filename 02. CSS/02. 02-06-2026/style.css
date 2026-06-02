@@ -1,0 +1,40 @@
+/* body {
+    background-color: chocolate;
+} */
+
+/* * {
+    color: red;
+} */
+
+h1, 
+p,
+b {
+    color: red;
+}
+
+/* p {
+    color: red;
+} */
+
+.hello {
+    color: yellow;
+    background-color: black;
+}
+
+#asif {
+    background-color: aqua;
+    color: orange;
+}
+
+
+/* ol > li > a {
+    color: blueviolet;
+} */
+
+ul > li {
+    color: gold;
+}
+
+ol a {
+    color: cornflowerblue;
+}
