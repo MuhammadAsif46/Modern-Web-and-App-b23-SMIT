@@ -1,0 +1,77 @@
+/* body {
+    background-color: red;
+} */
+
+
+/* h1+p{
+    color: aqua;
+} */
+
+/* h1~p {
+    color: red;
+}
+
+.pak{
+    color: purple;
+    background-color: gray;
+}
+
+#khi{
+    background: yellow;
+}
+
+
+ul span{
+    color: red;
+} */
+
+/* #head{
+    color: aqua
+}
+
+.heading{
+    color: orange;
+}
+
+
+h1{
+    color: red;
+}
+
+h1 {
+    color: green;
+}
+
+h1 {
+    color: blue !important;
+}
+
+div {
+    color: green;
+}
+
+p {
+    color: inherit;
+} */
+
+
+
+/* h1 {
+    color: #c2638ccd;
+} */
+
+/* h1 {
+    color: rgb(46, 111, 117);
+} */
+
+/* h1{
+    background-color: rgba(192, 57, 57, 0.4);
+} */
+h1{
+    background-color: rgba(255, 165, 0, 0.3);
+    /* opacity: 0.3; */
+}
+
+h1 {
+    color: #2a9d8f;
+}
