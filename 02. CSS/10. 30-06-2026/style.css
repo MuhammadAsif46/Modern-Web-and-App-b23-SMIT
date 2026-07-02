@@ -1,0 +1,37 @@
+@import url("main.css");
+
+/* .box1{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    position: absolute;
+    z-index: 2;
+}
+.box2{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    position: relative;
+    z-index: 1;
+} */
+
+/* .box1{
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    padding: 10px;
+}
+.box2{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    padding: 10px;
+}
+.float {
+    float: right;
+} */
+
+h1{
+    background-color: orange;
+    width: 700px;
+}
