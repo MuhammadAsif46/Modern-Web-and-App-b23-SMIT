@@ -1,0 +1,57 @@
+.para1{
+    background-color: red;
+    color: white;
+    border: 2px solid blue;
+    padding: 10px 20px;
+    width: 250px;
+    /* margin: 10px auto; */
+    display: inline-block;
+}
+
+
+/* li{
+    display: inline;
+} */
+
+span{
+    display: block;
+}
+
+/* .hide:hover{
+    display: none;
+} */
+
+.hide {
+    /* display: none; */
+    visibility: hidden;
+}
+
+.box{
+    width: 300px;
+    height: 300px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 50%;
+    margin: 0px auto;
+}
+
+
+li{
+    /* list-style-type: circle; */
+    /* list-style-position: outside; */
+    /* background-color: red; */
+    list-style: none;
+    display: inline;
+    margin-right: 20px;
+}
+
+table{
+    width: 100px;
+    empty-cells: show;
+    /* border-spacing: 50px; */
+    border-collapse: collapse;
+    background-color: red;
+}
+
+.c{
+    background-color: green;
+}
