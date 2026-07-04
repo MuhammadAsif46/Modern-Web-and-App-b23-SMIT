@@ -1,0 +1,44 @@
+/* Global variables */
+
+:root {
+    --redColor: #b5241c;
+    --paddingBtn: 26px;
+}
+
+h1 {
+    color: var(--redColor);
+    padding: var(--paddingBtn);
+}
+
+p {
+    background-color: var(--redColor);
+    /* margin: var(--paddingBtn); */
+    padding: var(--paddingBtn);
+}
+
+h3 {
+    --bgColor: #a7c957;
+    background-color: var(--bgColor);
+}
+
+h1 {
+    background-color: var(--bgColor);
+}
+
+.fb {
+    color: #0081a7;
+    font-size: 30px;
+}
+
+.bmw {
+    color: #ffa5ab;
+    font-size: 50px;
+}
+
+.git {
+    color: #6f2dbd;
+}
+
+.insta {
+   color: #ccff33;
+}
