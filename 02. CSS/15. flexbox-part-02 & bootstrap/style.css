@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Flexbox styling */
+
+.main {
+    display: flex;
+}
+
+.box1 {
+    width: 200px;
+    height: 200px;
+    background-color: aqua;
+    font-size: 30px;
+    /* border: 1px solid red; */
+    text-align: center;
+    /* order: 1; */
+    /* flex: 1; */
+    flex: 0.2;
+}
+
+.box2 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(215, 168, 48);
+    font-size: 30px;
+    /* border: 1px solid red; */
+    text-align: center;
+    /* order: 2; */
+    /* order: -1; */
+    flex: 3;
+}
+
+.box3 {
+    width: 200px;
+    height: 200px;
+    background-color: palegreen;
+    font-size: 30px;
+    /* border: 1px solid red; */
+    text-align: center;
+    /* order: -1; */
+    flex: 0.8;
+}
+
+.parent {
+    display: flex;
+    height: 600px;
+    /* border: 2px solid black */
+    background-color: blue;
+
+}
+
+.child {
+    width: 200px;
+    height: 200px;
+    background-color: palegreen;
+    border: 1px solid goldenrod;
+    font-size: 30px;
+
+}
+
+.special{
+    align-self: flex-end;
+}
